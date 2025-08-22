@@ -5,7 +5,7 @@ import BackgroundHover from "../animations/BackgroundHover";
 const CTA = () => {
   const handleGetStarted = () => {
     // Replace with your actual Microsoft Form URL
-    window.open('https://forms.microsoft.com/r/xUBW5iGDJB', '_blank');
+    window.open('https://forms.office.com/r/Q3KsDVdVEG', '_blank');
   };
 
   return (
